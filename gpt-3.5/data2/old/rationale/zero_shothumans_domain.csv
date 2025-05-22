@@ -1,0 +1,71 @@
+,prompts,GPT_Response_1
+0,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Sneaker color shows what side of the brain is dominant.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+1,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines take away the human rights of recipients
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+2,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: The perception of event timing explains the belief of psychic abilities.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+3,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Not All Ancient Fishers Were Men
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+4,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Hand sanitizer can invalidate breath alcohol test results.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 4, 5"
+5,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: A $75,000 yearly salary is the point at which happiness begins to plateau.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+6,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Daydreamers exhibit higher levels of intelligence and creativity.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4"

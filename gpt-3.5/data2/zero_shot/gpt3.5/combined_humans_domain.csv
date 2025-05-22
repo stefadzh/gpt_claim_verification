@@ -1,0 +1,71 @@
+Unnamed: 0,prompts,GPT_Response_1,true/false
+0,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Sneaker color shows what side of the brain is dominant.
+Abstract: The dress' is a peculiar photograph: by themselves the dress' pixels are brown and blue, colors associated with natural illuminants [1], but popular accounts (#TheDress) suggest the dress appears either white/gold or blue/black [2]. Could the purported categorical perception arise because the original social-media question was an alternative-forced-choice? In a free-response survey (N = 1401), we found that most people, including those na√Øve to the image, reported white/gold or blue/black, but some said blue/brown. Reports of white/gold over blue/black were higher among older people and women. On re-test, some subjects reported a switch in perception, showing the image can be multistable. In a language-independent measure of perception, we asked subjects to identify the dress' colors from a complete color gamut. The results showed three peaks corresponding to the main descriptive categories, providing additional evidence that the brain resolves the image into one of three stable percepts. We hypothesize that these reflect different internal priors: some people favor a cool illuminant (blue sky), discount shorter wavelengths, and perceive white/gold; others favor a warm illuminant (incandescent light), discount longer wavelengths, and see blue/black. The remaining subjects may assume a neutral illuminant, and see blue/brown. We show that by introducing overt cues to the illumination, we can flip the dress color.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,False
+1,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines take away the human rights of recipients
+Abstract: We've all heard the conspiracy theories about COVID-19. Now a whole new set is emerging around COVID vaccines  and spreading as virulently as the pandemic they are meant to control. Though the public health community tends to resort to reassurances about some of the more reasonable concerns  yes, the vaccines have been developed incredibly quickly and short-term side effects can occur   this post aims to do something different. We're going right to the heart of the matter. So no, COVID-19 vaccines aren't delivery vehicles for government microchips. They aren't tainted by material from aborted fetuses. And they won't turn us into GMOs  though some of them do use genetic engineering, and all of them use genetics more broadly. We think this is way cool  something to celebrate, not shy away from. So, we're doing the deep reveal on exactly how genetics and biotechnology have been a central component of the vaccine effort. Because we know the conspiracists don't care about evidence, anyway.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",CONTRADICT,False
+2,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Sniffing rosemary increases human memory by up to 75 percent.
+Abstract: The mode of influence of the aromas of plant essential oils on human behaviour is largely unclear."", ""This study was designed to assess the potential pharmacological relationships between absorbed 1,8-cineole following exposure to rosemary aroma, cognitive performance and mood.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",CONTRADICT,False
+3,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Left-handed people, on average, die younger than right-handed people.
+Abstract: The declining prevalence of left-handed individuals with increasing age has led to two main avenues of hypotheses; the association is due either (1) to a birth cohort effect and/or an age effect caused by a switch to right-handedness with advancing age or (2) to mortality selection that reduces survival in left-handed individuals, or both. It is uncertain whether a cohort or age effect can explain the decline in age-related prevalence, and conflicting evidence exists in favor of the mortality hypothesis. We compared mortality in a subgroup of 118 opposite-handed twin pairs by counting in how many instances the right-handed twin died first. There was no evidence of differential survival between right-handed and non-right-handed individuals in the entire 1900-1910 cohort. With respect to the number of right-handed twins who died first, there was no material disadvantage among those who were not right-handed. In 60% (95% confidence interval = 49.0-71.5%) of dizygotic pairs, the right-handed twins died first. In 50% of monozygotic pairs, right-handed twins died first. The prevalence of not being right-handed was higher among males (9.2%) than females (6.5%); there was a similar frequency of non-right-handedness in monozygotic (8.0%) and dizygotic (7.8%) twins. We did not find evidence of excess mortality among non-right-handed adult twins in this follow-up study.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",CONTRADICT,False
+4,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Conspiracy theorists are generally more sane than other people.
+Abstract: Recent research into the psychology of conspiracy belief has highlighted the importance of belief systems in the acceptance or rejection of conspiracy theories. We examined a large sample of conspiracist (pro-conspiracy-theory) and conventionalist (anti-conspiracy-theory) comments on news websites in order to investigate the relative importance of promoting alternative explanations vs. rejecting conventional explanations for events. In accordance with our hypotheses, we found that conspiracist commenters were more likely to argue against the opposing interpretation and less likely to argue in favor of their own interpretation, while the opposite was true of conventionalist commenters. However, conspiracist comments were more likely to explicitly put forward an account than conventionalist comments were. In addition, conspiracists were more likely to express mistrust and made more positive and fewer negative references to other conspiracy theories. The data also indicate that conspiracists were largely unwilling to apply the conspiracy theory label to their own beliefs and objected when others did so, lending support to the long-held suggestion that conspiracy belief carries a social stigma. Finally, conventionalist arguments tended to have a more hostile tone. These tendencies in persuasive communication can be understood as a reflection of an underlying conspiracist worldview in which the details of individual conspiracy theories are less important than a generalized rejection of official explanations.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,False
+5,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: The perception of event timing explains the belief of psychic abilities.
+Abstract: Do people know when, or whether, they have made a conscious choice? Here, we explore the possibility that choices can seem to occur before they are actually made. In two studies, participants were asked to quickly choose from a set of options before a randomly selected option was made salient. Even when they believed that they had made their decision prior to this event, participants were significantly more likely than chance to report choosing the salient option when this option was made salient soon after the perceived time of choice. Thus, without participants' awareness, a seemingly later event influenced choices that were experienced as occurring at an earlier time. These findings suggest that, like certain low-level perceptual experiences, the experience of choice is susceptible to postdictive influence and that people may systematically overestimate the role that consciousness plays in their chosen behavior.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,True
+6,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Not All Ancient Fishers Were Men
+Abstract: Discovery and analysis of 43 pearl oyster (Pinctada mazatlanica) artifacts and associated shell-processing tools from middle and basal levels of Covacha Babisuri, a rock shelter on Esp√≠ritu Santo Island, Baja California Sur, provide evidence of Early and Middle Holocene fishhook production along the southern Gulf of California coast. AMS 14C analysis of a fishhook preform recovered from the lowest stratum of the rock shelter returned a date of 8380 ¬± 50 RCYBP (Beta-236254), or 8750-8500 cal BP, with a reservoir effect of 250 ¬± 20 years, making this artifact one of the earliest known examples of a shell fishhook in the world. An additional pearl oyster artifact was found in a deeper level dating closer to 10,000 RCYBP, suggesting that this type of fishhook may date to this earlier period.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,True
+7,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Hand sanitizer can invalidate breath alcohol test results.
+Abstract: This study was undertaken to determine if the application of alcohol-based hand sanitizers (ABHSs) to the hands of a breath test operator will affect the results obtained on evidential breath alcohol instruments (EBTs). This study obtained breath samples on three different EBTs immediately after application of either gel or foam ABHS to the operator's hands. A small, but significant, number of initial analyses (13 of 130, 10%) resulted in positive breath alcohol concentrations, while 41 samples (31.5%) resulted in a status code. These status codes were caused by ethanol vapors either in the room air or their inhalation by the subject, thereby causing a mouth alcohol effect. Replicate subject samples did not yield any consecutive positive numeric results. As ABHS application can cause a transitory mouth alcohol effect via inhalation of ABHS vapors, EBT operators should forego the use of ABHS in the 15 min preceding subject testing.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,True
+8,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: A $75,000 yearly salary is the point at which happiness begins to plateau.
+Abstract: Two studies examined how non-interpersonal forgiveness (when there is no social relationship between the transgressor and forgiver) related to coping and involuntary responses to stress, psychological distress, and religiosity. Three to six weeks after September 11th, 2001, forgiveness had non-linear associations with other responses to the terrorist attacks. Among college students (N=488), those who were trying or had forgiven (pro-forgiveness) the terrorists reported less involuntary engagement, more primary and secondary control coping, and more meaning finding than those who were unsure about forgiveness (ambivalent) and those who did not believe the perpetrators should be forgiven (anti-forgiveness). Ambivalent students reported the most distress, even after controlling for religion. Anti-forgiveness students reported less religiosity than ambivalent and pro-forgiveness students. Most findings were consistent among middle schoolers (N=154), particularly regarding psychological distress and responses to stress. Also, forgiveness of strangers for acts against one's community functioned separately from religion.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",CONTRADICT,True
+9,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Daydreamers exhibit higher levels of intelligence and creativity.
+Abstract: Converging evidence from neuroscience suggests that our attention to the outside world waxes and wanes over time. We examined whether these periods of mind wandering are associated with reduced cortical analysis of the external environment. Participants performed a sustained attention to response task in which they responded to frequent nontargets (digits 0-9) and withheld responses for infrequent targets (the letter X). Mind wandering was defined both behaviorally, indicated by a failure to withhold a response to a target, and subjectively, via self-report at a thought probe. The P300 event-related potential component for nontargets was reduced prior to both the behavioral and subjective reports of mind wandering, relative to periods of being on-task. Regression analysis of P300 amplitude revealed significant common variance between behavioral and subjective markers of mind wandering, suggesting that both markers reflect a common underlying mental state. Finally, control analysis revealed that the effect of mind wandering on the P300 could not be ascribed to changes in motor activity nor was it associated with general arousal. Our data suggest that when trying to engage attention in a sustained manner, the mind will naturally ebb and flow in the depth of cognitive analysis it applies to events in the external environment.
+Question: Does the abstract of the scientific paper support the claim? Answer with SUPPORT or CONTRADICT.
+
+",SUPPORT,True

@@ -1,0 +1,73 @@
+,prompts,GPT_Response_1
+0,"Read the claim below, then answer the question at the end:
+
+Claim: Climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+1,"Read the claim below, then answer the question at the end:
+
+Claim: Precipitation in smoky areas following a wildfire is extremely toxic.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+2,"Read the claim below, then answer the question at the end:
+
+Claim: Volcanic activity in Hawaii is due to increased fracking activity from a nearby geothermal energy plant.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+3,"Read the claim below, then answer the question at the end:
+
+Claim: An ancient civilization built pyramids in Antarctica 100 million years ago.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+4,"Read the claim below, then answer the question at the end:
+
+Claim: Nearly all of global warming has been fabricated by climate scientists.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+5,"Read the claim below, then answer the question at the end:
+
+Claim: Global sea ice coverage is at a record-breaking low.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+6,"Read the claim below, then answer the question at the end:
+
+Claim: Flaws in past ocean temperature estimates suggest ancient seas were cooler than believed, making the current global warming trend more extraordinary.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+7,"Read the claim below, then answer the question at the end:
+
+Claim: Earth's sloshing molten core could give us earthquake warnings 5 years ahead.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+8,"Read the claim below, then answer the question at the end:
+
+Claim: Cargo ships are triggering more lightning storms at sea.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+9,"Read the claim below, then answer the question at the end:
+
+Claim: Dingoes migrated to Australia twice.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+10,"Read the claim below, then answer the question at the end:
+
+Claim: A method to detect 99% of ocean plastic waste has been proposed.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+11,"Read the claim below, then answer the question at the end:
+
+Claim: Marine ecosystems can survive mass extinction events.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT

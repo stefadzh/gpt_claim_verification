@@ -1,0 +1,43 @@
+,prompts,GPT_Response_1
+0,"Read the claim below, then answer the question at the end:
+
+Claim: The macaw species from the Rio movies has been declared extinct in the wild.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+1,"Read the claim below, then answer the question at the end:
+
+Claim: Goldfish can steer a specially designed ""fish-operated vehicle"" to get food.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+2,"Read the claim below, then answer the question at the end:
+
+Claim: Cocaine is present in multiple, freshwater-shrimp samples across the U.K.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+3,"Read the claim below, then answer the question at the end:
+
+Claim: A monkey mother consumes her mummified dead baby.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+4,"Read the claim below, then answer the question at the end:
+
+Claim: Beetles can be engineered to have a third eye.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT
+5,"Read the claim below, then answer the question at the end:
+
+Claim: Orcas can be taught to ""say"" human words. 
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT
+6,"Read the claim below, then answer the question at the end:
+
+Claim: We Have Footage of Tardigrade Mating
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT

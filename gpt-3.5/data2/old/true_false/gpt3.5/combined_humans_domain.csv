@@ -1,0 +1,61 @@
+Unnamed: 0,prompts,GPT_Response_1,true/false
+0,"Read the claim below, then answer the question at the end:
+
+Claim: Sneaker color shows what side of the brain is dominant.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,False
+1,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines take away the human rights of recipients
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,False
+2,"Read the claim below, then answer the question at the end:
+
+Claim: Sniffing rosemary increases human memory by up to 75 percent.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,False
+3,"Read the claim below, then answer the question at the end:
+
+Claim: Left-handed people, on average, die younger than right-handed people.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,False
+4,"Read the claim below, then answer the question at the end:
+
+Claim: Conspiracy theorists are generally more sane than other people.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,False
+5,"Read the claim below, then answer the question at the end:
+
+Claim: The perception of event timing explains the belief of psychic abilities.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,True
+6,"Read the claim below, then answer the question at the end:
+
+Claim: Not All Ancient Fishers Were Men
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,True
+7,"Read the claim below, then answer the question at the end:
+
+Claim: Hand sanitizer can invalidate breath alcohol test results.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,True
+8,"Read the claim below, then answer the question at the end:
+
+Claim: A $75,000 yearly salary is the point at which happiness begins to plateau.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,True
+9,"Read the claim below, then answer the question at the end:
+
+Claim: Daydreamers exhibit higher levels of intelligence and creativity.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,True

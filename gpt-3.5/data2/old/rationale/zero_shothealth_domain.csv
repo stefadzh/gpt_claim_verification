@@ -1,0 +1,372 @@
+,prompts,GPT_Response_1
+0,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Face masks generally block microplastics from entering people's lungs, but not completely.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4"
+1,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Israeli study finds drop in sperm count after Pfizer vaccine is temporary, there are signs of sperm damage
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3"
+2,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 is caused by a virus, not snake venom.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1. COVID-19 is caused by a virus.
+2. COVID-19 is not caused by snake venom."
+3,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: There is a proven link between COVID-19 vaccines and aphasia, a language disorder.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+4,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: List of viruses circulating on social media cause positive COVID-19 RT-PCR tests.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4"
+5,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: People with asymptomatic COVID-19 in acute phase will not develop long COVID symptoms.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3, 4"
+6,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines cause 93% of deaths that occur after inoculation
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+7,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 can only be caught once
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+8,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Evidence shows that COVID-19 vaccines affect male fertility.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+9,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Vaccines help reduce transmission by preventing infection in the first place, as well as reducing how infectious a person becomes once infected.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2"
+10,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Most cases of myocarditis, a heart disease, after COVID-19 vaccines are irreversible.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+11,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Long COVID' is fake.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4"
+12,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: The increases in maternal heat exposure and climate change is related to COVID-19 vaccines.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+13,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: No evidence aspirin is 'being attacked' because 'it's proven' to treat COVID-19
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+14,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: mRNA vaccines alter DNA
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3, 4, 5"
+15,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: No evidence graphene oxide is present in available COVID-19 vaccines via lipid nanoparticles
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+16,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Overdose of fentanyl just by being in its presence is possible.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+17,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Approved vaccines are more dangerous than COVID-19.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+18,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines are a ploy to connect people to 5G.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+19,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Variants are simply spike proteins; they are versions of the same virus that relate in sequence.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4"
+20,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Unvaccinated people are more susceptible to catching COVID-19 than vaccinated people.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+21,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: There is evidence that COVID-19 vaccines increase risk of miscarriage
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+22,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines will kill people by causing antibody-dependent enhancement
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+23,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines are infectious.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+24,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID vaccines 'shed' from one person to another and cause reproductive problems
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+25,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: COVID-19 vaccines will cause 'cytokine storms', a life-threatening systemic inflammatory syndrome.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3, 4, 5"
+26,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: mRNA vaccines reduce life expectancy or cause severe health issues.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+27,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: “ethylene oxide-coated” swabs in lateral flow tests cause cancer.
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3, 4"
+28,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Asymptomatic people can't infect others with COVID-19
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","2, 3, 4, 5"
+29,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Koch's postulates, a criteria to establish relationships between microbes and diseases, do not need to be fulfilled to prove the existence of a virus.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+30,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Sleep deprivation is surprisingly effective as an antidepressant.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+31,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Sugar makes kids hyperactive
+Abstract: nan
+
+Stance: CONTRADICT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 4"
+32,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Weather is a serious risk factor for heart failure.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+33,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Ancient Chinese ink could hold a surprising new way to kill cancer cells.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 4"
+34,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Parkinson's is linked to gut bacteria.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 3, 5"
+35,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: AI can analyze mammogram results 30 times faster than doctors and with 99% accuracy.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5"
+36,"Read the claim and abstract below, then answer the question at the end:
+
+Claim: Ovarian cancer can be detected in your breath.
+Abstract: nan
+
+Stance: SUPPORT
+
+Question: Which of the numbered sentences support the previously selected stance? Answer with only a list of numbers separated by commas, on one line.
+
+","1, 2, 3, 4, 5, 6, 7, 8, 9, 10"

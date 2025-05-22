@@ -1,0 +1,106 @@
+,prompts,GPT_Response_1,,,id,title,claim,Type,url,domain,news_date,true/false
+0,"Read the claim below, then answer the question at the end:
+
+Claim: Arctic ice is 'making a comeback', longer-term trends show.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,363,"Arctic ice is not 'making a comeback', longer-term trends show","Arctic ice is 'making a comeback', longer-term trends show.",Claim,https://www.reuters.com/news/article/factcheck-climate-change-arctic/fact-check-arctic-ice-is-not-making-a-comeback-longer-term-trends-show-idUSL2N2XJ0LJ,Environment,27-May-22,FALSE
+1,"Read the claim below, then answer the question at the end:
+
+Claim: Comparisons of glacier counts are a reliable indicator of climate change
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,1130,Comparisons of glacier counts are not a reliable indicator of climate change,Comparisons of glacier counts are a reliable indicator of climate change,Claim,https://www.reuters.com/news/article/factcheck-climate-change/fact-check-comparisons-of-glacier-counts-are-not-a-reliable-indicator-of-climate-change-idUSL1N2RV20T,Environment,4-Nov-21,FALSE
+2,"Read the claim below, then answer the question at the end:
+
+Claim: ""Rocks falling into the ocean"" is a factor that contributes to observable sea level rise.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,5605,Do Rocks Falling Into the Ocean Contribute to Global Sea Level Rise?,Rocks falling into the ocean is a factor that contributes to observable sea level rise.,Claim,https://www.snopes.com/fact-check/do-rocks-contribute-sea-rise/,Environment,18-May-18,FALSE
+3,"Read the claim below, then answer the question at the end:
+
+Claim: Eating alligator will help save the wetlands of Louisiana.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,5608,Will Eating Alligator Meat Help Save the Louisiana Wetlands?,Eating alligator will help save the wetlands of Louisiana.,Claim,https://www.snopes.com/fact-check/will-eating-alligator-save-wetlands/,Environment,22-Jan-18,FALSE
+4,"Read the claim below, then answer the question at the end:
+
+Claim: Climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,5626,"Did NASA 'Admit' Climate Change Is Caused by Changes in Earth's Orbit, Not Humans?",Climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.,Claim,https://www.snopes.com/fact-check/nasa-climate-change-admission/,Environment,5-Sep-19,FALSE
+5,"Read the claim below, then answer the question at the end:
+
+Claim: Precipitation in smoky areas following a wildfire is extremely toxic.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,5629,Is Rain That Falls in Smoky Areas After a Wildfire Likely to Be Extremely Toxic?,Precipitation in smoky areas following a wildfire is extremely toxic.,Claim,https://www.snopes.com/fact-check/rain-wildfire-toxic/,Environment,19-Nov-18,FALSE
+6,"Read the claim below, then answer the question at the end:
+
+Claim: Volcanic activity in Hawaii is due to increased fracking activity from a nearby geothermal energy plant.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,5632,Did Fracking Cause Volcanic Activity on Hawaii's Big Island?,Volcanic activity in Hawaii is due to increased fracking activity from a nearby geothermal energy plant.,Claim,https://www.snopes.com/fact-check/did-fracking-cause-volcanic-activity-hawaii/,Environment,22-Jun-18,FALSE
+7,"Read the claim below, then answer the question at the end:
+
+Claim: An ancient civilization built pyramids in Antarctica 100 million years ago.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,5634,Were Enormous Pyramids Just Discovered In Antarctica?,An ancient civilization built pyramids in Antarctica 100 million years ago.,Claim,https://www.snopes.com/fact-check/enormous-pyramids-just-discovered-in-antarctica/,Environment,24-Aug-17,FALSE
+8,"Read the claim below, then answer the question at the end:
+
+Claim: Nearly all of global warming has been fabricated by climate scientists.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,5636,Peer-Reviewed Study Proves All Recent Global Warming Fabricated by Climatologists?,Nearly all of global warming has been fabricated by climate scientists.,Claim,https://www.snopes.com/fact-check/climatology-fraud-global-warming/,Environment,14-Jul-17,FALSE
+9,"Read the claim below, then answer the question at the end:
+
+Claim: Global sea ice coverage is at a record-breaking low.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,5647,Global Sea Ice at a Record-Breaking Low,Global sea ice coverage is at a record-breaking low.,Claim,https://www.snopes.com/fact-check/global-sea-ice-at-a-record-breaking-low/,Environment,21-Nov-16,TRUE
+10,"Read the claim below, then answer the question at the end:
+
+Claim: Flaws in past ocean temperature estimates suggest ancient seas were cooler than believed, making the current global warming trend more extraordinary.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,7205,Scientists Just Found a Serious Flaw in Ocean Temperature Calculations,"Flaws in past ocean temperature estimates suggest ancient seas were cooler than believed, making the current global warming trend more extraordinary.",Claim,https://www.sciencealert.com/ancient-ocean-temperatures-cooler-than-predicted,Environment,27-Oct-17,TRUE
+11,"Read the claim below, then answer the question at the end:
+
+Claim: Earth's sloshing molten core could give us earthquake warnings 5 years ahead.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",CONTRADICT,,,7206,Earth's Sloshing Molten Core Could Give Us Earthquake Warnings 5 Years Ahead,Earth's sloshing molten core could give us earthquake warnings 5 years ahead.,Claim,https://www.sciencealert.com/earth-iron-core-sloshing-could-predict-earthquakes-five-years-ahead,Environment,31-Oct-17,TRUE
+12,"Read the claim below, then answer the question at the end:
+
+Claim: Cargo ships are triggering more lightning storms at sea.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,7208,Strange But True: Cargo Ships Are Triggering More Lightning Storms at Sea,Cargo ships are triggering more lightning storms at sea.,Claim,https://www.sciencealert.com/cargo-ships-are-triggering-more-lightning-storms-at-sea,Environment,20-Sep-17,TRUE
+13,"Read the claim below, then answer the question at the end:
+
+Claim: Dingoes migrated to Australia twice.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,7238,Dingoes May Have Actually Migrated to Australia Twice,Dingoes migrated to Australia twice.,Claim,https://www.sciencealert.com/dingoes-might-actually-be-two-populations-not-one,Environment,2-Nov-17,TRUE
+14,"Read the claim below, then answer the question at the end:
+
+Claim: A method to detect 99% of ocean plastic waste has been proposed.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,7245,"99% of Ocean Plastic Waste Is Invisible, But This Method Could Help Find It",A method to detect 99% of ocean plastic waste has been proposed.,Claim,https://www.sciencealert.com/missing-99-percent-ocean-microplastic-detection-method,Environment,24-Nov-17,TRUE
+15,"Read the claim below, then answer the question at the end:
+
+Claim: Marine ecosystems can survive mass extinction events.
+Question: Is this claim true or false? Answer with only the word SUPPORT if the claim is true, or only the word CONTRADICT if the claim is false.
+
+",SUPPORT,,,7246,"Marine Ecosystems Can Survive The Worst Mass Extinction Events, Study Shows",Marine ecosystems can survive mass extinction events.,Claim,https://www.sciencealert.com/marine-ecosystems-cling-on-to-life-through-some-of-the-worst-mass-extinction-events,Environment,23-Oct-17,TRUE
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,TP: 7 TN: 2,,,,,,,,,,,
+,FP: 3 FN: 4,,,,,,,,,,,
+,total: 16,,,,,,,,,,,
+,accuracy = 56.25%,,,,,,,,,,,
+,precision = 70.00%,,,,,,,,,,,
+,recall = 63.64%,,,,,,,,,,,
+,f1 = 66.67%,,,,,,,,,,,

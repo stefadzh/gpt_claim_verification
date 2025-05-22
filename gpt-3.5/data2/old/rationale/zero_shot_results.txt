@@ -1,0 +1,6 @@
+TP: 1 TN: 8
+FP: 0 FN: 50 
+total: 59accuracy = 15.25% 
+precision = 100.00%
+recall = 1.96%
+f1 = 3.85%

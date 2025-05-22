@@ -1,0 +1,829 @@
+Unnamed: 0,prompts,GPT_Response_1,id,claim,true/false
+0,"Read the claim below, then answer the question at the end:
+
+Claim: Targeting cancer cells with resonant frequencies has been shown to 'cure' cancer.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,50,Targeting cancer cells with resonant frequencies has been shown to 'cure' cancer.,False
+1,"Read the claim below, then answer the question at the end:
+
+Claim: Updated CDC guidance on monkeypox transmission still includes 'respiratory transmission'.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time access to the internet or the ability to browse the web, so I can't provide the current CDC guidance on monkeypox transmission. Please check the latest updates on the official CDC website.",132,Updated CDC guidance on monkeypox transmission still includes 'respiratory transmission'.,True
+2,"Read the claim below, then answer the question at the end:
+
+Claim: Sun exposure, and diet, causes skin cancers.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,170,"Sun exposure, and diet, causes skin cancers.",True
+3,"Read the claim below, then answer the question at the end:
+
+Claim: Post-pandemic stress disorder is caused by COVID-19 vaccines.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,918,Post-pandemic stress disorder is caused by COVID-19 vaccines.,False
+4,"Read the claim below, then answer the question at the end:
+
+Claim: Left-handed people, on average, die younger than right-handed people.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5610,"Left-handed people, on average, die younger than right-handed people.",False
+5,"Read the claim below, then answer the question at the end:
+
+Claim: Hand sanitizer can invalidate breath alcohol test results.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7240,Hand sanitizer can invalidate breath alcohol test results.,True
+6,"Read the claim below, then answer the question at the end:
+
+Claim: Comparisons of glacier counts are a reliable indicator of climate change
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,1130,Comparisons of glacier counts are a reliable indicator of climate change,False
+7,"Read the claim below, then answer the question at the end:
+
+Claim: Climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5626,Climate change occurs naturally as a result of changes in Earth's solar orbit and not anthropogenic factors.,False
+8,"Read the claim below, then answer the question at the end:
+
+Claim: Precipitation in smoky areas following a wildfire is extremely toxic.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5629,Precipitation in smoky areas following a wildfire is extremely toxic.,False
+9,"Read the claim below, then answer the question at the end:
+
+Claim: Mass bleaching events in the Great Barrier Reef kill coral and risk the future of the reef.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,367,Mass bleaching events in the Great Barrier Reef kill coral and risk the future of the reef.,True
+10,"Read the claim below, then answer the question at the end:
+
+Claim: Photos of the Statue of Liberty from 1898 and 2017 show that sea levels have not risen significantly.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1133,Photos of the Statue of Liberty from 1898 and 2017 show that sea levels have not risen significantly.,False
+11,"Read the claim below, then answer the question at the end:
+
+Claim: The macaw species from the Rio movies has been declared extinct in the wild.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5603,The macaw species from the Rio movies has been declared extinct in the wild.,True
+12,"Read the claim below, then answer the question at the end:
+
+Claim: Climate change is only driven by variations to Earth's orbital position relative to the sun
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,234,Climate change is only driven by variations to Earth's orbital position relative to the sun,False
+13,"Read the claim below, then answer the question at the end:
+
+Claim: mRNA vaccines was used to 'murder'
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1025,mRNA vaccines was used to 'murder',False
+14,"Read the claim below, then answer the question at the end:
+
+Claim: Millimeter wave body scanners used by airport security can alter your DNA.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5640,Millimeter wave body scanners used by airport security can alter your DNA.,False
+15,"Read the claim below, then answer the question at the end:
+
+Claim: U.S. carrots are 'soaked' in bleach, chlorpropham is used.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,145,"U.S. carrots are 'soaked' in bleach, chlorpropham is used.",False
+16,"Read the claim below, then answer the question at the end:
+
+Claim: Face masks generally block microplastics from entering people's lungs, but not completely.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,193,"Face masks generally block microplastics from entering people's lungs, but not completely.",True
+17,"Read the claim below, then answer the question at the end:
+
+Claim: Israeli study finds drop in sperm count after Pfizer vaccine is temporary, there are signs of sperm damage
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time access to the internet or databases to verify current claims or news. As of my last update in October 2021, there were no widely recognized studies that conclusively linked the Pfizer vaccine to a temporary drop in sperm count or sperm damage. Please consult the most recent and reliable sources for the most accurate information.",212,"Israeli study finds drop in sperm count after Pfizer vaccine is temporary, there are signs of sperm damage",False
+18,"Read the claim below, then answer the question at the end:
+
+Claim: Evidence shows that U.S. schoolchildren are self-identifying as animals and disrupting classrooms
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The claim cannot be verified as it lacks specific evidence or sources.,247,Evidence shows that U.S. schoolchildren are self-identifying as animals and disrupting classrooms,False
+19,"Read the claim below, then answer the question at the end:
+
+Claim: Arctic ice is 'making a comeback', longer-term trends show.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,363,"Arctic ice is 'making a comeback', longer-term trends show.",False
+20,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 is caused by a virus, not snake venom.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,451,"COVID-19 is caused by a virus, not snake venom.",True
+21,"Read the claim below, then answer the question at the end:
+
+Claim: There is a proven link between COVID-19 vaccines and aphasia, a language disorder.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,507,"There is a proven link between COVID-19 vaccines and aphasia, a language disorder.",False
+22,"Read the claim below, then answer the question at the end:
+
+Claim: List of viruses circulating on social media cause positive COVID-19 RT-PCR tests.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,812,List of viruses circulating on social media cause positive COVID-19 RT-PCR tests.,False
+23,"Read the claim below, then answer the question at the end:
+
+Claim: People with asymptomatic COVID-19 in acute phase will not develop long COVID symptoms.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,880,People with asymptomatic COVID-19 in acute phase will not develop long COVID symptoms.,False
+24,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines cause 93% of deaths that occur after inoculation
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,888,COVID-19 vaccines cause 93% of deaths that occur after inoculation,False
+25,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 can only be caught once
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,919,COVID-19 can only be caught once,False
+26,"Read the claim below, then answer the question at the end:
+
+Claim: Pandemic preparedness scenario is an evidence of an orchestrated disease outbreak.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,942,Pandemic preparedness scenario is an evidence of an orchestrated disease outbreak.,False
+27,"Read the claim below, then answer the question at the end:
+
+Claim: Evidence shows that COVID-19 vaccines affect male fertility.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,951,Evidence shows that COVID-19 vaccines affect male fertility.,False
+28,"Read the claim below, then answer the question at the end:
+
+Claim: Vaccines help reduce transmission by preventing infection in the first place, as well as reducing how infectious a person becomes once infected.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,1061,"Vaccines help reduce transmission by preventing infection in the first place, as well as reducing how infectious a person becomes once infected.",True
+29,"Read the claim below, then answer the question at the end:
+
+Claim: Most cases of myocarditis, a heart disease, after COVID-19 vaccines are irreversible.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1073,"Most cases of myocarditis, a heart disease, after COVID-19 vaccines are irreversible.",False
+30,"Read the claim below, then answer the question at the end:
+
+Claim: Long COVID' is fake.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1081,Long COVID' is fake.,False
+31,"Read the claim below, then answer the question at the end:
+
+Claim: The increases in maternal heat exposure and climate change is related to COVID-19 vaccines.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1082,The increases in maternal heat exposure and climate change is related to COVID-19 vaccines.,False
+32,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 test swabs touch the brain or bruise the amygdala to make people submissive
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1111,COVID-19 test swabs touch the brain or bruise the amygdala to make people submissive,False
+33,"Read the claim below, then answer the question at the end:
+
+Claim: 3D-printed Sarco capsules for assisted suicides, which can be activated from the inside by the person intending to die, have been approved under Swiss law.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,1158,"3D-printed Sarco capsules for assisted suicides, which can be activated from the inside by the person intending to die, have been approved under Swiss law.",False
+34,"Read the claim below, then answer the question at the end:
+
+Claim: Predicting exactly when natural resources, species and ecosystems may disappear is possible.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1184,"Predicting exactly when natural resources, species and ecosystems may disappear is possible.",False
+35,"Read the claim below, then answer the question at the end:
+
+Claim: No evidence aspirin is 'being attacked' because 'it's proven' to treat COVID-19
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The assistant cannot determine if the claim is true or false because the claim is not clear and lacks sufficient context.,1226,No evidence aspirin is 'being attacked' because 'it's proven' to treat COVID-19,True
+36,"Read the claim below, then answer the question at the end:
+
+Claim: The term 'fossil fuel' was coined by John D. Rockefeller to trick people into thinking oil is a scarce commodity
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1314,The term 'fossil fuel' was coined by John D. Rockefeller to trick people into thinking oil is a scarce commodity,False
+37,"Read the claim below, then answer the question at the end:
+
+Claim: mRNA vaccines alter DNA
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1475,mRNA vaccines alter DNA,False
+38,"Read the claim below, then answer the question at the end:
+
+Claim: No evidence graphene oxide is present in available COVID-19 vaccines via lipid nanoparticles
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,1484,No evidence graphene oxide is present in available COVID-19 vaccines via lipid nanoparticles,True
+39,"Read the claim below, then answer the question at the end:
+
+Claim: Overdose of fentanyl just by being in its presence is possible.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1486,Overdose of fentanyl just by being in its presence is possible.,False
+40,"Read the claim below, then answer the question at the end:
+
+Claim: Approved vaccines are more dangerous than COVID-19.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1545,Approved vaccines are more dangerous than COVID-19.,False
+41,"Read the claim below, then answer the question at the end:
+
+Claim: Hundreds of dead birds on ship deck are linked to 5G radiation.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1608,Hundreds of dead birds on ship deck are linked to 5G radiation.,False
+42,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines are a ploy to connect people to 5G.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1611,COVID-19 vaccines are a ploy to connect people to 5G.,False
+43,"Read the claim below, then answer the question at the end:
+
+Claim: Variants are simply spike proteins; they are versions of the same virus that relate in sequence.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1676,Variants are simply spike proteins; they are versions of the same virus that relate in sequence.,False
+44,"Read the claim below, then answer the question at the end:
+
+Claim: Unvaccinated people are more susceptible to catching COVID-19 than vaccinated people.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,1748,Unvaccinated people are more susceptible to catching COVID-19 than vaccinated people.,True
+45,"Read the claim below, then answer the question at the end:
+
+Claim: There is evidence that COVID-19 vaccines increase risk of miscarriage
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1778,There is evidence that COVID-19 vaccines increase risk of miscarriage,False
+46,"Read the claim below, then answer the question at the end:
+
+Claim: Hydroxychloroquine can be made at home using fruit peel
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1785,Hydroxychloroquine can be made at home using fruit peel,False
+47,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines will kill people by causing antibody-dependent enhancement
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1827,COVID-19 vaccines will kill people by causing antibody-dependent enhancement,False
+48,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines are infectious.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1935,COVID-19 vaccines are infectious.,False
+49,"Read the claim below, then answer the question at the end:
+
+Claim: Sneaker color shows what side of the brain is dominant.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1979,Sneaker color shows what side of the brain is dominant.,False
+50,"Read the claim below, then answer the question at the end:
+
+Claim: COVID vaccines 'shed' from one person to another and cause reproductive problems
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1981,COVID vaccines 'shed' from one person to another and cause reproductive problems,False
+51,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines will cause 'cytokine storms', a life-threatening systemic inflammatory syndrome.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,1991,"COVID-19 vaccines will cause 'cytokine storms', a life-threatening systemic inflammatory syndrome.",False
+52,"Read the claim below, then answer the question at the end:
+
+Claim: mRNA vaccines reduce life expectancy or cause severe health issues.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,2016,mRNA vaccines reduce life expectancy or cause severe health issues.,False
+53,"Read the claim below, then answer the question at the end:
+
+Claim: “ethylene oxide-coated” swabs in lateral flow tests cause cancer.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,2105,“ethylene oxide-coated” swabs in lateral flow tests cause cancer.,False
+54,"Read the claim below, then answer the question at the end:
+
+Claim: Motorized 'spermbot' has a connection to the COVID-19 vaccine.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,2138,Motorized 'spermbot' has a connection to the COVID-19 vaccine.,False
+55,"Read the claim below, then answer the question at the end:
+
+Claim: COVID-19 vaccines take away the human rights of recipients
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,2139,COVID-19 vaccines take away the human rights of recipients,False
+56,"Read the claim below, then answer the question at the end:
+
+Claim: Asymptomatic people can't infect others with COVID-19
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,2207,Asymptomatic people can't infect others with COVID-19,False
+57,"Read the claim below, then answer the question at the end:
+
+Claim: Koch's postulates, a criteria to establish relationships between microbes and diseases, do not need to be fulfilled to prove the existence of a virus.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,2211,"Koch's postulates, a criteria to establish relationships between microbes and diseases, do not need to be fulfilled to prove the existence of a virus.",True
+58,"Read the claim below, then answer the question at the end:
+
+Claim: Populations of wild deer across North America was tested positive for SARS-CoV-2 antibodies.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data. As of my last update in October 2021, there were reports of deer testing positive for SARS-CoV-2 antibodies in some parts of North America. However, you should check the most recent and reliable sources for the latest information.",5601,Populations of wild deer across North America was tested positive for SARS-CoV-2 antibodies.,True
+59,"Read the claim below, then answer the question at the end:
+
+Claim: Red Bull and Bang energy drinks test positive for various illicit and prescription drugs.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5602,Red Bull and Bang energy drinks test positive for various illicit and prescription drugs.,False
+60,"Read the claim below, then answer the question at the end:
+
+Claim: Sniffing rosemary increases human memory by up to 75 percent.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5604,Sniffing rosemary increases human memory by up to 75 percent.,False
+61,"Read the claim below, then answer the question at the end:
+
+Claim: ""Rocks falling into the ocean"" is a factor that contributes to observable sea level rise.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5605,"""Rocks falling into the ocean"" is a factor that contributes to observable sea level rise.",False
+62,"Read the claim below, then answer the question at the end:
+
+Claim: Every cell in the human body is replaced every seven years.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5606,Every cell in the human body is replaced every seven years.,False
+63,"Read the claim below, then answer the question at the end:
+
+Claim: Dogs show jealousy if they catch their owners behaving sweetly toward other dogs.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5607,Dogs show jealousy if they catch their owners behaving sweetly toward other dogs.,True
+64,"Read the claim below, then answer the question at the end:
+
+Claim: Eating alligator will help save the wetlands of Louisiana.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The assistant cannot determine if the claim is TRUE or FALSE without additional information.,5608,Eating alligator will help save the wetlands of Louisiana.,False
+65,"Read the claim below, then answer the question at the end:
+
+Claim: Using toilet paper as a barrier between you and a toilet seat poses more health risks than just sitting down without a barrier.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5609,Using toilet paper as a barrier between you and a toilet seat poses more health risks than just sitting down without a barrier.,False
+66,"Read the claim below, then answer the question at the end:
+
+Claim: Placing a raw, cut onion in contact with your foot overnight‚ purifies your blood, removes toxins, and heals your body.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5611,"Placing a raw, cut onion in contact with your foot overnight‚ purifies your blood, removes toxins, and heals your body.",False
+67,"Read the claim below, then answer the question at the end:
+
+Claim: Cancer is caused by a deficiency of vitamin B17.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5612,Cancer is caused by a deficiency of vitamin B17.,False
+68,"Read the claim below, then answer the question at the end:
+
+Claim: Peanut butter can be used to diagnose Alzheimer's Disease.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5613,Peanut butter can be used to diagnose Alzheimer's Disease.,False
+69,"Read the claim below, then answer the question at the end:
+
+Claim: During pregnancy, if the mother suffers organ damage, the baby in the womb sends stem cells to repair the damaged organ.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5614,"During pregnancy, if the mother suffers organ damage, the baby in the womb sends stem cells to repair the damaged organ.",True
+70,"Read the claim below, then answer the question at the end:
+
+Claim: Marijuana plays a role in healing broken bones.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5615,Marijuana plays a role in healing broken bones.,True
+71,"Read the claim below, then answer the question at the end:
+
+Claim: Time itself is speeding up and we actually perceive a 24-hour day as a 16-hour day.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5616,Time itself is speeding up and we actually perceive a 24-hour day as a 16-hour day.,False
+72,"Read the claim below, then answer the question at the end:
+
+Claim: Goldfish can steer a specially designed ""fish-operated vehicle"" to get food.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5619,"Goldfish can steer a specially designed ""fish-operated vehicle"" to get food.",True
+73,"Read the claim below, then answer the question at the end:
+
+Claim: Burning sage kills 94% of bacteria.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5624,Burning sage kills 94% of bacteria.,False
+74,"Read the claim below, then answer the question at the end:
+
+Claim: Cocaine is present in multiple, freshwater-shrimp samples across the U.K.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,5627,"Cocaine is present in multiple, freshwater-shrimp samples across the U.K.",True
+75,"Read the claim below, then answer the question at the end:
+
+Claim: A recent invasion of New Guinea Flatworms in Florida poses a significant risk to human health.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5630,A recent invasion of New Guinea Flatworms in Florida poses a significant risk to human health.,False
+76,"Read the claim below, then answer the question at the end:
+
+Claim: Conspiracy theorists are generally more sane than other people.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5631,Conspiracy theorists are generally more sane than other people.,False
+77,"Read the claim below, then answer the question at the end:
+
+Claim: Volcanic activity in Hawaii is due to increased fracking activity from a nearby geothermal energy plant.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5632,Volcanic activity in Hawaii is due to increased fracking activity from a nearby geothermal energy plant.,False
+78,"Read the claim below, then answer the question at the end:
+
+Claim: An ancient civilization built pyramids in Antarctica 100 million years ago.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5634,An ancient civilization built pyramids in Antarctica 100 million years ago.,False
+79,"Read the claim below, then answer the question at the end:
+
+Claim: Nearly all of global warming has been fabricated by climate scientists.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5636,Nearly all of global warming has been fabricated by climate scientists.,False
+80,"Read the claim below, then answer the question at the end:
+
+Claim: If the vial to a mercury-containing vaccine is broken, the building must be evacuated.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5639,"If the vial to a mercury-containing vaccine is broken, the building must be evacuated.",False
+81,"Read the claim below, then answer the question at the end:
+
+Claim: Abortions increase a woman's risk of developing breast cancer.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5642,Abortions increase a woman's risk of developing breast cancer.,False
+82,"Read the claim below, then answer the question at the end:
+
+Claim: Salt lamps emit negatively charged ions, providing a myriad health benefits including reduced anxiety, improved sleep, increased energy, and protection from an electric smog.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5644,"Salt lamps emit negatively charged ions, providing a myriad health benefits including reduced anxiety, improved sleep, increased energy, and protection from an electric smog.",False
+83,"Read the claim below, then answer the question at the end:
+
+Claim: Women need more sleep than men because their brains get more use on a day-to-day basis.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5645,Women need more sleep than men because their brains get more use on a day-to-day basis.,False
+84,"Read the claim below, then answer the question at the end:
+
+Claim: Global sea ice coverage is at a record-breaking low.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data. As of my last update in October 2021, global sea ice levels have been decreasing, but I can't confirm if they are at a record-breaking low. Please check the most recent and reliable sources for the current status.",5647,Global sea ice coverage is at a record-breaking low.,True
+85,"Read the claim below, then answer the question at the end:
+
+Claim: Vaccinated and boosted people are more susceptible to the omicron variant.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5649,Vaccinated and boosted people are more susceptible to the omicron variant.,False
+86,"Read the claim below, then answer the question at the end:
+
+Claim: Insulin price increases are due to increased consumer demand.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5651,Insulin price increases are due to increased consumer demand.,False
+87,"Read the claim below, then answer the question at the end:
+
+Claim: Wearing masks isn't doing anything to prevent COVID-19.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5652,Wearing masks isn't doing anything to prevent COVID-19.,False
+88,"Read the claim below, then answer the question at the end:
+
+Claim: The Centers for Disease Control and Prevention's recent guidance on students and masking lacks a well-grounded scientific justification.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data or the ability to form opinions. As of the last update, the CDC bases its guidance on the best available scientific evidence. However, whether this specific claim is true or false would require current, specific knowledge about the CDC's recent guidance on students and masking. It's recommended to check the latest updates from the CDC's official website.",5653,The Centers for Disease Control and Prevention's recent guidance on students and masking lacks a well-grounded scientific justification.,False
+89,"Read the claim below, then answer the question at the end:
+
+Claim: Dandelion root is able to kill 98% of cancer cells within 48 hours.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5654,Dandelion root is able to kill 98% of cancer cells within 48 hours.,False
+90,"Read the claim below, then answer the question at the end:
+
+Claim: Covid vaccines cause shingles.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5655,Covid vaccines cause shingles.,False
+91,"Read the claim below, then answer the question at the end:
+
+Claim: Americans with natural immunity from getting COVID-19 is a very powerful vaccine in itself.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,5656,Americans with natural immunity from getting COVID-19 is a very powerful vaccine in itself.,False
+92,"Read the claim below, then answer the question at the end:
+
+Claim: Electricity can be generated from tears and saliva.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7202,Electricity can be generated from tears and saliva.,True
+93,"Read the claim below, then answer the question at the end:
+
+Claim: The electrons around berkelium are governed by Einstein's theory of relativity, which predicts that as objects with mass move faster, they get heavier.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7203,"The electrons around berkelium are governed by Einstein's theory of relativity, which predicts that as objects with mass move faster, they get heavier.",True
+94,"Read the claim below, then answer the question at the end:
+
+Claim: The perception of event timing explains the belief of psychic abilities.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7204,The perception of event timing explains the belief of psychic abilities.,True
+95,"Read the claim below, then answer the question at the end:
+
+Claim: Flaws in past ocean temperature estimates suggest ancient seas were cooler than believed, making the current global warming trend more extraordinary.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data access to verify current scientific claims. You should check the most recent and reliable scientific sources for this information.",7205,"Flaws in past ocean temperature estimates suggest ancient seas were cooler than believed, making the current global warming trend more extraordinary.",True
+96,"Read the claim below, then answer the question at the end:
+
+Claim: Earth's sloshing molten core could give us earthquake warnings 5 years ahead.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7206,Earth's sloshing molten core could give us earthquake warnings 5 years ahead.,True
+97,"Read the claim below, then answer the question at the end:
+
+Claim: It's possible for lasers to transfer its momentum to create a stream of liquid.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7207,It's possible for lasers to transfer its momentum to create a stream of liquid.,True
+98,"Read the claim below, then answer the question at the end:
+
+Claim: Cargo ships are triggering more lightning storms at sea.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7208,Cargo ships are triggering more lightning storms at sea.,True
+99,"Read the claim below, then answer the question at the end:
+
+Claim: Sleep deprivation is surprisingly effective as an antidepressant.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7209,Sleep deprivation is surprisingly effective as an antidepressant.,True
+100,"Read the claim below, then answer the question at the end:
+
+Claim: Sugar makes kids hyperactive
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7210,Sugar makes kids hyperactive,False
+101,"Read the claim below, then answer the question at the end:
+
+Claim: Scientists have discovered the existence of a type of particle that's never previously been observed, which demonstrates unprecedented chemical stability.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time access to current scientific discoveries or news updates. Therefore, I can't verify the truth of this claim.",7211,"Scientists have discovered the existence of a type of particle that's never previously been observed, which demonstrates unprecedented chemical stability.",True
+102,"Read the claim below, then answer the question at the end:
+
+Claim: A monkey mother consumes her mummified dead baby.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7212,A monkey mother consumes her mummified dead baby.,True
+103,"Read the claim below, then answer the question at the end:
+
+Claim: Weather is a serious risk factor for heart failure.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7214,Weather is a serious risk factor for heart failure.,True
+104,"Read the claim below, then answer the question at the end:
+
+Claim: Ancient Chinese ink could hold a surprising new way to kill cancer cells.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7215,Ancient Chinese ink could hold a surprising new way to kill cancer cells.,True
+105,"Read the claim below, then answer the question at the end:
+
+Claim: A single transistor can alternate between optical and electrical signal output.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7217,A single transistor can alternate between optical and electrical signal output.,True
+106,"Read the claim below, then answer the question at the end:
+
+Claim: The strongest organic acid ever is made from proteins.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7218,The strongest organic acid ever is made from proteins.,True
+107,"Read the claim below, then answer the question at the end:
+
+Claim: Parkinson's is linked to gut bacteria.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7219,Parkinson's is linked to gut bacteria.,True
+108,"Read the claim below, then answer the question at the end:
+
+Claim: Electrons Have Been Caught Disappearing And Reappearing Between Atomic Layers
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7220,Electrons Have Been Caught Disappearing And Reappearing Between Atomic Layers,True
+109,"Read the claim below, then answer the question at the end:
+
+Claim: AI can analyze mammogram results 30 times faster than doctors and with 99% accuracy.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data or the ability to verify current information. As of my last update, AI has shown promising results in analyzing mammogram results quickly and accurately, but specific speed and accuracy may vary depending on the AI system used. Therefore, I cannot definitively confirm if this claim is TRUE or FALSE.",7222,AI can analyze mammogram results 30 times faster than doctors and with 99% accuracy.,True
+110,"Read the claim below, then answer the question at the end:
+
+Claim: Mars's gullies aren't formed by flowing water.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","The answer to this claim can be both TRUE and FALSE. The formation of gullies on Mars is a topic of ongoing research and debate among scientists. Some studies suggest that they are formed by flowing water, while others propose they are created by other processes such as the sublimation of carbon dioxide. Therefore, without a definitive consensus in the scientific community, the claim can be considered both true and false.",7224,Mars's gullies aren't formed by flowing water.,True
+111,"Read the claim below, then answer the question at the end:
+
+Claim: Jupiter's moon Io's atmosphere collapses every single day as Jupiter eclipses it.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7225,Jupiter's moon Io's atmosphere collapses every single day as Jupiter eclipses it.,True
+112,"Read the claim below, then answer the question at the end:
+
+Claim: Golden nano-grid could lead to clearer, more sensitive touchscreens.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7228,"Golden nano-grid could lead to clearer, more sensitive touchscreens.",True
+113,"Read the claim below, then answer the question at the end:
+
+Claim: Mars could have at least two ancient reservoirs of water underground.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7229,Mars could have at least two ancient reservoirs of water underground.,True
+114,"Read the claim below, then answer the question at the end:
+
+Claim: Cybercriminals are on the prowl to infect your mobile devices while you charge them.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7230,Cybercriminals are on the prowl to infect your mobile devices while you charge them.,True
+115,"Read the claim below, then answer the question at the end:
+
+Claim: Marsquakes are very similar to earthquakes.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7231,Marsquakes are very similar to earthquakes.,True
+116,"Read the claim below, then answer the question at the end:
+
+Claim: Black holes emit radiation.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7232,Black holes emit radiation.,True
+117,"Read the claim below, then answer the question at the end:
+
+Claim: Not All Ancient Fishers Were Men
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7235,Not All Ancient Fishers Were Men,True
+118,"Read the claim below, then answer the question at the end:
+
+Claim: Ovarian cancer can be detected in your breath.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7236,Ovarian cancer can be detected in your breath.,True
+119,"Read the claim below, then answer the question at the end:
+
+Claim: Havana Syndrome is not a mass psychological illness.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data or opinions. However, as of the information available up to 2021, the exact cause of Havana Syndrome is still under investigation. Some researchers believe it could be a form of mass psychogenic illness, while others suggest it might be caused by microwave radiation or other factors. Therefore, it's not definitively TRUE or FALSE that Havana Syndrome is not a mass psychological illness.",7237,Havana Syndrome is not a mass psychological illness.,True
+120,"Read the claim below, then answer the question at the end:
+
+Claim: Dingoes migrated to Australia twice.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7238,Dingoes migrated to Australia twice.,True
+121,"Read the claim below, then answer the question at the end:
+
+Claim: Beetles can be engineered to have a third eye.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7239,Beetles can be engineered to have a third eye.,True
+122,"Read the claim below, then answer the question at the end:
+
+Claim: A $75,000 yearly salary is the point at which happiness begins to plateau.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7241,"A $75,000 yearly salary is the point at which happiness begins to plateau.",True
+123,"Read the claim below, then answer the question at the end:
+
+Claim: Daydreamers exhibit higher levels of intelligence and creativity.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","The assistant cannot answer this question with TRUE or FALSE as it requires subjective interpretation and may depend on various factors. Some studies suggest a correlation between daydreaming and creativity or intelligence, but it's not a definitive rule.",7242,Daydreamers exhibit higher levels of intelligence and creativity.,True
+124,"Read the claim below, then answer the question at the end:
+
+Claim: Orcas can be taught to ""say"" human words. 
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7243,"Orcas can be taught to ""say"" human words. ",True
+125,"Read the claim below, then answer the question at the end:
+
+Claim: We Have Footage of Tardigrade Mating
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7244,We Have Footage of Tardigrade Mating,True
+126,"Read the claim below, then answer the question at the end:
+
+Claim: A method to detect 99% of ocean plastic waste has been proposed.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7245,A method to detect 99% of ocean plastic waste has been proposed.,True
+127,"Read the claim below, then answer the question at the end:
+
+Claim: Marine ecosystems can survive mass extinction events.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",TRUE,7246,Marine ecosystems can survive mass extinction events.,True
+128,"Read the claim below, then answer the question at the end:
+
+Claim: Most animals used in experiments never appear in published research.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7251,Most animals used in experiments never appear in published research.,True
+129,"Read the claim below, then answer the question at the end:
+
+Claim: Genes influence free will.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7253,Genes influence free will.,True
+130,"Read the claim below, then answer the question at the end:
+
+Claim: Giving up on meat won't save the planet.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The assistant cannot answer this question as it requires personal opinion or subjective interpretation. The impact of meat consumption on the environment is a topic of ongoing scientific research and debate.,7255,Giving up on meat won't save the planet.,True
+131,"Read the claim below, then answer the question at the end:
+
+Claim: There is currently no good evidence that red meat is harmful to health.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7256,There is currently no good evidence that red meat is harmful to health.,True
+132,"Read the claim below, then answer the question at the end:
+
+Claim: Scientists simulated 100,000 different futures and each of them solely depends on us.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",FALSE,7257,"Scientists simulated 100,000 different futures and each of them solely depends on us.",True
+133,"Read the claim below, then answer the question at the end:
+
+Claim: Traditional approaches like fighting fires and fuel management can't solve the wildfire problem in California.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7259,Traditional approaches like fighting fires and fuel management can't solve the wildfire problem in California.,True
+134,"Read the claim below, then answer the question at the end:
+
+Claim: Logging forests to halt wildfires would do more harm than good.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine if the claim is true or false.,7260,Logging forests to halt wildfires would do more harm than good.,True
+135,"Read the claim below, then answer the question at the end:
+
+Claim: Majority of experts cited in online news are men.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","As an AI, I don't have real-time data or the ability to browse the internet. Therefore, I can't verify the current accuracy of this claim.",7261,Majority of experts cited in online news are men.,True
+136,"Read the claim below, then answer the question at the end:
+
+Claim: A new device can immediately target and destroy deadly blood clots.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+",The text does not provide information to determine the truthfulness of the claim.,7267,A new device can immediately target and destroy deadly blood clots.,True
+137,"Read the claim below, then answer the question at the end:
+
+Claim: Having more sex will not make you happier.
+Question: Is this claim true or false? Answer with TRUE or FALSE.
+
+","The assistant cannot answer this question as it depends on individual experiences and scientific studies, which have shown mixed results.",7268,Having more sex will not make you happier.,True
